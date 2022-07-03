@@ -3,16 +3,16 @@ Pre reqs:\
 **Installing python**\
     pip install python\
 **Installing Scapy** \
-    pip install scapy\
+    pip install scapy
 
 **Installing nmap**\
     pip install python-nmap\
 
 **Installing rich** \
-    pip install rich\
+    pip install rich
 
 **Installing console**\
-    pip install console\
+    pip install console
     
     
 git clone https://github.com/m-raheem/CYBERX
