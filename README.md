@@ -19,7 +19,7 @@ git clone https://github.com/m-raheem/CYBERX
 
 commands to use: 
 for help: 
-    sudo python cyberx.py --help
+   sudo python cyberx.py --help
 for using GEO LOCATER: 
     sudo python cyberx.py --Geo_Locater 
 for using GEO LOCATER: 
