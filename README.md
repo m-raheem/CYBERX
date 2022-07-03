@@ -17,16 +17,16 @@ Installing console
     
 git clone https://github.com/m-raheem/CYBERX
 
-commands to use: 
-for help: 
-   sudo python cyberx.py --help
-for using GEO LOCATER: 
-    sudo python cyberx.py --Geo_Locater 
-for using GEO LOCATER: 
-    sudo python cyberx.py --Port_Scanner 
-for using GEO LOCATER: 
-    sudo python cyberx.py --ARP_Scanner
-for using GEO LOCATER: 
-    sudo python cyberx.py --ARP_Spoofer       
+commands to use:\ 
+for help:\ 
+   sudo python cyberx.py --help\
+for using GEO LOCATER: \
+    sudo python cyberx.py --Geo_Locater \
+for using GEO LOCATER: \
+    sudo python cyberx.py --Port_Scanner \
+for using GEO LOCATER: \
+    sudo python cyberx.py --ARP_Scanner \
+for using GEO LOCATER: \
+    sudo python cyberx.py --ARP_Spoofer      
 
 
