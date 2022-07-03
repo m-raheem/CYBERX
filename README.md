@@ -15,7 +15,7 @@ Installing console\
     pip install console\
     
     
-git clone https://github.com/m-raheem/CYBERX\
+git clone https://github.com/m-raheem/CYBERX
 
 commands to use:\ 
 for help:\ 
