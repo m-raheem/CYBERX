@@ -6,7 +6,7 @@ Pre reqs:\
     pip install scapy
 
 **Installing nmap**\
-    pip install python-nmap\
+    pip install python-nmap
 
 **Installing rich** \
     pip install rich
