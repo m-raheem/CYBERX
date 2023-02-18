@@ -1,4 +1,4 @@
-# CYBERX
+# CYBERX Recon
 ## Pre reqs:\
 **Installing python**\
     ``pip install python``
